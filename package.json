@@ -1,0 +1,13 @@
+{
+  "name": "car-racing-game",
+  "version": "1.0.0",
+  "description": "Simple car racing game",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "npx serve -s src/",
+    "build": "echo 'No build process'"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
